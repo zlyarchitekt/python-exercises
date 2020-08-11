@@ -2,10 +2,9 @@ import math
 
 def DecimalPi(userValue):
     sp = round(math.pi, userValue)
-    # someList = list(p)
     return sp
 
-# Border oof decimal places
+# Max value of decimal places
 b = 20
 
 # User's input
